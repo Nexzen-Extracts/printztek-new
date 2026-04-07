@@ -34,7 +34,7 @@ const Header: React.FC = () => {
             
             
           </div>
-          <span className="hidden sm:block">Free Shipping on Orders Over $50</span>
+          <span className="hidden sm:block">Free Shipping on Orders Over ₹999</span>
           <Link to="/contact" className="hover:underline">Contact Us</Link>
         </div>
       </div>
