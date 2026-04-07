@@ -3,7 +3,7 @@ import { Shield, Truck, RotateCcw, Headphones } from "lucide-react";
 
 const trustItems = [
   { icon: Shield, title: "Secure Checkout", description: "256-bit SSL encrypted payments" },
-  { icon: Truck, title: "Fast US Shipping", description: "Free shipping on orders over $50" },
+  { icon: Truck, title: "Fast US Shipping", description: "Free Shipping on Orders Over ₹999" },
   { icon: RotateCcw, title: "30-Day Returns", description: "Hassle-free return policy" },
   { icon: Headphones, title: "Customer Service", description: "Talk to real people for assistance" },
 ];

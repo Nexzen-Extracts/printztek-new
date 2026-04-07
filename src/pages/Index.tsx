@@ -51,7 +51,7 @@ const Index = () => {
       {/* Special Offer Banner */}
       <section className="py-14 bg-primary">
         <div className="container mx-auto px-4 text-center">
-          <h2 className="text-3xl font-bold text-primary-foreground mb-3">Free Shipping on Orders Over $50</h2>
+          <h2 className="text-3xl font-bold text-primary-foreground mb-3">Free Shipping on Orders Over ₹999</h2>
           <p className="text-primary-foreground/80 mb-6 max-w-lg mx-auto">Stock up on ink, toner, and paper — get it delivered to your door at no extra cost.</p>
           <Link to="/shop"><Button variant="hero" className="bg-background text-foreground hover:bg-background/90">Shop Supplies</Button></Link>
         </div>
